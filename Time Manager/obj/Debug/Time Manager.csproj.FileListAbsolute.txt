@@ -1,0 +1,16 @@
+D:\usefull\time manager\Time Manager\Time Manager\bin\Debug\Time Manager.exe.config
+D:\usefull\time manager\Time Manager\Time Manager\bin\Debug\Time Manager.exe
+D:\usefull\time manager\Time Manager\Time Manager\bin\Debug\Time Manager.pdb
+D:\usefull\time manager\Time Manager\Time Manager\obj\Debug\Time Manager.csprojAssemblyReference.cache
+D:\usefull\time manager\Time Manager\Time Manager\obj\Debug\Time_Manager.Properties.Resources.resources
+D:\usefull\time manager\Time Manager\Time Manager\obj\Debug\Time Manager.csproj.GenerateResource.cache
+D:\usefull\time manager\Time Manager\Time Manager\obj\Debug\Time Manager.csproj.CoreCompileInputs.cache
+D:\usefull\time manager\Time Manager\Time Manager\obj\Debug\Time Manager.exe
+D:\usefull\time manager\Time Manager\Time Manager\obj\Debug\Time Manager.pdb
+D:\usefull\time manager\Time Manager\Time Manager\obj\Debug\Time_Manager.timerform.resources
+D:\usefull\time manager\Time Manager\Time Manager\obj\Debug\Time_Manager.workitform.resources
+D:\usefull\time manager\Time Manager\Time Manager\obj\Debug\Time_Manager.eatform.resources
+D:\usefull\time manager\Time Manager\Time Manager\obj\Debug\Time_Manager.min5form.resources
+D:\usefull\time manager\Time Manager\Time Manager\obj\Debug\Time_Manager.dinerform.resources
+D:\usefull\time manager\Time Manager\Time Manager\obj\Debug\Time_Manager.gohomeform.resources
+D:\usefull\time manager\Time Manager\Time Manager\obj\Debug\Time_Manager.Startform.resources
